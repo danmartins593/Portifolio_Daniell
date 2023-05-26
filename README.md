@@ -17,7 +17,7 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nenhum erro
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
-Descrição: Criei a estrutura e acabei esquecendo o comando "input" por no final deu erro.
+Descrição: Criei a estrutura e acabei esquecendo o comando "input" na estrutura do "nome" por isso no final deu erro.
 
 Link para acesso ao projeto: file:///C:/Users/Sec%20RN/Documents/aulaweb2.html
 
