@@ -13,7 +13,7 @@ Tecnologias utilizadas:
 
 • Visual Code Studio
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nenhum erro encontrado durante o desenvolvimento 
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Durante o desenvolvimento tive um erro após calcular média, esquecendo um codigo na estrutura.
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
