@@ -2,16 +2,16 @@
 Portifolio para documentar o desenvolvimento durante a disciplina de Programação Web.
 
 
-Projeto: Página para calcular média
+Projeto: Criar pagina com nome e email
 
-Arquivo (s):aulaweb2.html
+Arquivo (s): aulaweb2.html
 
 
 Descrição: Projeto para adicionar nome e email .
 
 Tecnologias utilizadas:
 
-•Visual Code Studio
+• Visual Code Studio
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nenhum erro encontrado durante o desenvolvimento 
 
