@@ -2,7 +2,7 @@
 Portifolio para documentar o desenvolvimento durante a disciplina de Programação Web.
 
 
-Projeto: Criar pagina com nome e email
+Projeto: Criar pagina com nome e email para cadastrar
 
 Arquivo (s): aulaweb2.html
 
