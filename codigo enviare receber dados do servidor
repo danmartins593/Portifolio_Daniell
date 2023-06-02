@@ -1,1 +1,12 @@
 CODIGO.GS
+
+function doGet() {
+  return HtmlService.createHtmlOutputFromFile('Media')
+}
+  function calcularMedia(nota1, peso1, nota2, peso2){
+  var media = ( (nota1*peso1) + (nota2*peso2) ) / (peso1+peso2);
+return media;
+}
+
+CODIGOS HTML
+
