@@ -48,9 +48,7 @@ Descrição: Acabei adicionado a estrutura da media ponderada.
 
 Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbz27V2_ROfteLlvD8VQrwTeKN6jbjRHc-GZ7rSt01y4pIoqX1_MOqpAqdlQFxHREsJ5/exec
 
-Projeto Enviar e Receber 
-
-# CODIGOS 
+Projeto Enviar e Receber  
 
 CODIGO.GS
 
