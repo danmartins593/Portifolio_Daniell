@@ -26,7 +26,7 @@ Projeto aulaweb2.html
 
 
 
-# Aula 02/06/23 withSucessHandler
+# Aula 01/06/23 withSucessHandler
 
 Portifolio para documentar o desenvolvimento durante a disciplina de Programação Web.
 
