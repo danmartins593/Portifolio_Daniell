@@ -73,9 +73,9 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: Durante o d
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
-Descrição: Desenvolvi uma estrutura HTML e Codigos.gs para solicitar um login correto.
+Descrição: Desenvolvi uma estrutura HTML e Codigos.gs para solicitar um login correto. E também acrescentei um codigo de mudar cor do titulo.
 
-Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbzL3r7NvftCfm7CRDAknUfsjX-3KtHNZvjpnwBv6TUDY5Aoa6ogEfWkZVvOA01k7c2N/exec 
+Link para acesso ao projeto: https:// https://script.google.com/macros/s/AKfycbxV-SyV5v-vui-xHadmRajIKOKTD8xepP8w88Gsgc57FpPO6GZQL8Sn5BAvVKbCGJEw/exec
 
 Projeto Login Cadastro e senha para o servidor.
 
