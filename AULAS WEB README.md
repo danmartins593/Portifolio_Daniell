@@ -7,7 +7,7 @@ Projeto: Criar pagina com nome e email para cadastrar
 Arquivo (s): aulaweb2.html
 
 
-Descrição: Projeto para adicionar nome e email .
+Descrição: Projeto para adicionar nome e email para se cadastrar .
 
 Tecnologias utilizadas:
 
