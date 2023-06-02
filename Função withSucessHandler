@@ -14,7 +14,7 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: Tive dificu
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
-Descrição: 
+Descrição: Acabei adicionando a estrutura de como enviar e receber codigo.
 
 Link para acesso ao projeto:
 
