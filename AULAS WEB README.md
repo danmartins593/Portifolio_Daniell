@@ -66,6 +66,7 @@ Descrição: Tem o objetivo de mandar um comando do cliente para servido para so
 Tecnologias utilizadas:
 
 • Google App Script
+
 •Java Script
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto: Durante o desenvolvimento, tinha achado um problema na parte de adicionar senha, pois estava faltando o "i" de "id".
