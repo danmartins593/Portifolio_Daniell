@@ -50,3 +50,31 @@ Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbz27V2_ROft
 
 Projeto Enviar e Receber  
 
+
+
+# Aula 02/06/23 LOGIN
+
+
+Portifolio para documentar o desenvolvimento durante a disciplina de Programação Web.
+
+Projeto: Solicitar um login para cadastrar com email e senha.
+
+Arquivo (s): Função withSucessHandler
+
+Descrição: Tem o objetivo de mandar um comando do cliente para servido para solicitar um login com email e senha.
+
+Tecnologias utilizadas:
+
+• Google App Script
+•Java Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Durante o desenvolvimento, tinha achado um problema na parte de adicionar senha, pois estava faltando o "i" de "id".
+
+Erro: TypeError: Cannot read properties of null (reading 'value')
+
+Descrição: Desenvolvi uma estrutura HTML e Codigos.gs para solicitar um login correto.
+
+Link para acesso ao projeto: 
+Projeto Login Cadastro e senha para o servidor.
+
+
