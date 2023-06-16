@@ -96,6 +96,7 @@ Tecnologias utilizadas:
 •HTML
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto: Durante a criação da estrutura HTML tinha achado um erro na parte do codigo gs sendo que estavam faltando os parenteses
+
 Erro:
 
 Descrição: Como enviar dador do form para o servidor.
