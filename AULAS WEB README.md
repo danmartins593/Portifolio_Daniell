@@ -87,7 +87,7 @@ Projeto: Para solicitar um envio do cliente ao servidor
 
 Arquivo (s): Envio_de_dados_form
 
-Descrição: Tem o objetivo de mandar um comando do cliente para servido para solicitar um login com email e senha.
+Descrição: Tem o objetivo de mandar um comando do cliente para servido através do form.
 
 Tecnologias utilizadas:
 
