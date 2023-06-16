@@ -79,4 +79,27 @@ Link para acesso ao projeto: https:// https://script.google.com/macros/s/AKfycbx
 
 Projeto Login Cadastro e senha para o servidor.
 
+# Aula 15/06/23 Envio de dados form
 
+Portifolio para documentar o desenvolvimento durante a disciplina de Programação Web.
+
+Projeto: Para solicitar um envio do cliente ao servidor 
+
+Arquivo (s): Envio_de_dados_form
+
+Descrição: Tem o objetivo de mandar um comando do cliente para servido para solicitar um login com email e senha.
+
+Tecnologias utilizadas:
+
+• Google App Script
+
+•HTML
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Durante a criação da estrutura HTML tinha achado um erro na parte do codigo gs sendo que estavam faltando os parenteses
+Erro:
+
+Descrição: Como enviar dador do form para o servidor.
+
+Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbwaVp8gzG3Yihmi-Dzr5UbOxa3CDdr0v_2iAnptvWdN5ThLtLlguftBZdstujUmCNcK/exec
+
+Projeto para enviar dados atraves do forms.
