@@ -175,7 +175,30 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: Acontece um
 Erro: TypeError: Nenhum erro.
 
 Descrição: Sendo isso pode arquiva livros e selecionando a data de lançamento,quantidade de paginas e nome do autor. 
-Link para acesso ao projeto: 
+Link para acesso ao projeto: Projeto Salvar livros na planilha.
 
-Projeto Salvar livros na planilha. 
+
+# Lista de exrcicio 1
+Portifolio para documentar o desenvolvimento durante a disciplina de Programação Web.
+
+
+Projeto: Lista de exercicio
+Arquivo (s): Lista_de_exercicio
+
+Descrição: 
+
+Tecnologias utilizadas:
+
+• Google app Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Erro: TypeError:
+
+Descrição:
+
+Link para acesso ao projeto:
+
+Projeto Lista de exercicio
+
 
