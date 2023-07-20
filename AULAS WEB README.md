@@ -153,3 +153,29 @@ Projeto aulaweb2.html
 
 
 Projeto Aula lista de compra.
+
+# Projeto Livraria
+
+Portifolio para documentar o desenvolvimento durante a disciplina de Programação Web.
+
+
+Projeto: Fazer uma livraria dentro de uma planilha google. 
+
+Arquivo (s): Projeto_Livraria 
+
+
+Descrição: Criar diversos livros dentro da planilha e deixar salvos.
+Tecnologias utilizadas:
+
+• Google App Script
+• Google Planilhas
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Acontece um erro apenas na parte de selecionar a data de lancamento e quantidade de pagina.  
+
+Erro: TypeError: Nenhum erro.
+
+Descrição: Sendo isso pode arquiva livros e selecionando a data de lançamento,quantidade de paginas e nome do autor. 
+Link para acesso ao projeto: 
+
+Projeto Salvar livros na planilha. 
+
