@@ -104,3 +104,29 @@ Descrição: Como enviar dador do form para o servidor.
 Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbwaVp8gzG3Yihmi-Dzr5UbOxa3CDdr0v_2iAnptvWdN5ThLtLlguftBZdstujUmCNcK/exec
 
 Projeto para enviar dados atraves do forms.
+
+
+
+# Lista de Compras Aula
+
+Portifolio para documentar o desenvolvimento durante a disciplina de Programação Web.
+
+
+Projeto: Projeto Lista de compra 
+Arquivo (s):Aula_de_Lista_de_Compra
+
+
+Descrição: Feito para adicionar uma lista de coisas desejada pra comprar. 
+Tecnologias utilizadas:
+
+• Google App Script e HTML
+
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Tive um pequeno erro na parte do codigo gs.
+
+Erro: TypeError: Nenhum erro encontrado
+
+Descrição: 
+Link para acesso ao projeto:
+
+Projeto Aula lista de compra.
