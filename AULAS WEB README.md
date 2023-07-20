@@ -141,13 +141,13 @@ Tecnologias utilizadas:
 
 • Visual Code Studio
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Durante o desenvolvimento tive um erro após calcular média, esquecendo um codigo na estrutura.
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Durante o desenvolvimento tive um erro após mostra o resultado, esquecendo um codigo na estrutura.
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: Criei a estrutura e acabei esquecendo o comando "input" na estrutura do "nome" por isso no final deu erro.
 
-Link para acesso ao projeto: file:///C:/Users/Sec%20RN/Documents/aulaweb2.html
+Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxaY928JXPmSx0dz8p9uXQPCIYriyDODhAI5kjhPEl9NasnEPgelPsJX7V4JOImhiNY/exec
 
 Projeto aulaweb2.html
 
