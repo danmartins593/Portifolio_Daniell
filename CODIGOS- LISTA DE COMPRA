@@ -1,0 +1,56 @@
+CODIGO.GS
+
+function doGet() {
+  return HtmlService.createTemplateFromFile('listaCompra').evaluate();  
+}
+
+function incluir(nomeArquivo) {
+  return HtmlService.createHtmlOutputFromFile(nomeArquivo).getContent();
+}
+
+HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lista de Compras</title>
+</head>
+<body>
+  <h1>Lista de Compras</h1>
+  <form>
+    <label for="produto">Nome do Produto:</label>
+    <input type="text" id="produto" name="produto" placeholder="Digite o nome do produto">
+
+    <label for="quantidade">Quantidade:</label>
+    <input type="number" id="quantidade" name="quantidade" min="1">
+    <button onclick>Mostrar</button>
+  </form>
+</body>
+</html>
+
+ESTILO.html
+
+<style>
+      input {
+        width: 200px;
+        padding: 12px 20px;
+        margin: 8px 0;
+        border: none;
+        border-bottom: 2px solid red;
+        background-color: #3cbc8d;
+        color: white;
+        box-sizing: border-box;
+      }
+
+      button{
+        background-color: #4CAF50;
+        border: none;
+        color: blue;
+        padding: 15px 40px;
+        text-aling: center;
+        text-decoration: none;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+</style>      
