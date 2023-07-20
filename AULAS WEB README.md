@@ -153,3 +153,26 @@ Projeto aulaweb2.html
 
 
 Projeto Aula lista de compra.
+
+# Projeto Media Ponderada
+
+Portifolio para documentar o desenvolvimento durante a disciplina de Programação Web.
+
+
+Projeto: Projeto media ponderada
+Arquivo (s): Media_ponderada_nota2
+
+
+Descrição: Feito para calcular nota e
+peso.
+Tecnologias Utilizadas:
+• Google App Script e HTML
+
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Aconteceu um erro de escrito na linha 2 em codigo.gs. 
+
+Erro: TypeErro: Nenhum arquivo HTML com o nome calcularMedia foi encontrado. (linha 2, arquivo "Código") 
+
+Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbyJwQtdEpT1Ga_Ho2i4WjVVHPBBwNsReAJ13B37zCRFfriJUuv6yU_jDPxD1UTVY4wh/exec 
+
+Projeto Media Ponderada
