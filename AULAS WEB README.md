@@ -21,7 +21,7 @@ Descrição: Criei a estrutura e acabei esquecendo o comando "input" na estrutur
 
 # Link para acesso ao projeto: file:///C:/Users/Sec%20RN/Documents/aulaweb2.html
 
-Projeto aulaweb2.html
+Projeto teste
 
 
 
@@ -46,7 +46,7 @@ Erro: TypeError: Nenhum erro encontrado.
 
 Descrição: Acabei adicionado a estrutura da media ponderada.
 
-Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbz27V2_ROfteLlvD8VQrwTeKN6jbjRHc-GZ7rSt01y4pIoqX1_MOqpAqdlQFxHREsJ5/exec
+ # Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbz27V2_ROfteLlvD8VQrwTeKN6jbjRHc-GZ7rSt01y4pIoqX1_MOqpAqdlQFxHREsJ5/exec
 
 Projeto Enviar e Receber  
 
