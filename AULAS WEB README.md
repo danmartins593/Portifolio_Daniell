@@ -140,6 +140,7 @@ Descrição: Projeto para adicionar nome e email para se cadastrar .
 Tecnologias utilizadas:
 
 • Visual Code Studio
+• Git Hub
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto: Durante o desenvolvimento tive um erro após mostra o resultado, esquecendo um codigo na estrutura.
 
@@ -169,7 +170,7 @@ Tecnologias utilizadas:
 
 • Google App Script
 • Google Planilhas
-
+• Git Hub
 Dificuldades/erros encontrados durante o desenvolvimento do projeto: Acontece um erro apenas na parte de selecionar a data de lancamento e quantidade de pagina.  
 
 Erro: TypeError: Nenhum erro.
@@ -185,19 +186,18 @@ Portifolio para documentar o desenvolvimento durante a disciplina de Programaç�
 Projeto: Lista de exercicio
 Arquivo (s): Lista_de_exercicio
 
-Descrição: 
+Descrição: Feitro para calcular a distancia da viagem de Joana
 
 Tecnologias utilizadas:
 
 • Google app Script
+• Git Hub
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: A estrutura esta ok, pois não mostra o resultado do consumo da viagem logo abaixo.
 
-Erro: TypeError:
+Erro: TypeError: O unico erro foi de não aparecer o resultado.
 
-Descrição:
-
-Link para acesso ao projeto:
+Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxEvPRpc_zQmlVOpONrlrJX0T5xLwBCcIKtEi9QZTS_-hb0zbSbuWfFAEa-YxR3hnqz/exec
 
 Projeto Lista de exercicio
 
