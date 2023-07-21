@@ -198,6 +198,7 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: A estrutura
 Erro: TypeError: O unico erro foi de não aparecer o resultado.
 
 Link para acesso ao projeto parte um : https://script.google.com/macros/s/AKfycbxEvPRpc_zQmlVOpONrlrJX0T5xLwBCcIKtEi9QZTS_-hb0zbSbuWfFAEa-YxR3hnqz/exec
+
 Link de acesso ao projeto parte dois : https://script.google.com/macros/s/AKfycbxXjLczuZ01uecysvPQaK0f-4NQ7AZ1mHpMZjCPGCiMCqAfaa87rN7hw7Bv9bwsAZJ3Ow/exec
 
 Projeto Lista de exercicio
