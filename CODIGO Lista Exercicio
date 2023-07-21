@@ -1,0 +1,115 @@
+CODIGO GS
+
+function doGet() {
+  return HtmlService.createHtmlOutputFromFile('ListaPratica');
+}
+
+function calcularValorFinal(distancia, consumo, precoGasolina) {
+  var valorFinal = (distancia / consumo) * precoGasolina;
+  return valorFinal;
+}
+
+CODIGO HTML
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    
+    <h1>Viagem de Joana</h1>
+
+    <form id="form" onsubmit="submitForm(event)">
+      <label for="distancia">Distancia da casa (em km):</label>
+      <input type="number" id="distancia" name="distancia" required><br><br>
+
+      <label for="consumo">Consumo do carro(em km/l):</label>
+      <input type="number" id="consumo" name="consumo" required><br><br>
+
+      <label for="precoGasolina">Preço do combustivel (R$/litro):</label>
+      <input type="number" id="precoGasolina" name="precoGasolina" required><br><br>
+
+      <input type="submit" value="Analisar">
+
+    </form>
+
+    <p id="result"></p>
+
+    <script>
+      function submitForm(event) {
+        event.preventDefault();
+        var form = document.getElementById("myForm");
+        google.script.run.withSuccessHandler(displayResult).calcularViagem
+      (form);
+      form.reset();
+      }
+
+      function displayResult(result) {
+        document.getElementById("result").textContent = result;
+      }
+    </script>
+  </body>
+</html>
+
+
+Parte dois 
+
+CODIGO GS
+
+function doGet() {
+  return HtmlService.createHtmlOutputFromFile('partedois');
+
+  var distancia = parseFloat(e.parameter.distancia);
+  var consumo = parseFloat(e.parameter.consumo);
+  var precoGasolina = parseFloat(e.parameter.precoGasolina);
+
+  var valorFinal = (distancia / consumo) * precoGasolina;
+
+  Logger.log(e.parameter.distancia);
+  Logger.log(e.parameter.consumo);
+  Logger.log(e.parameter.precoGasolina)
+}
+
+CODIGO HTML
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    
+    <h1>Viagem de Joana</h1>
+
+    <form id="form" onsubmit="submitForm(event)">
+      <label for="distancia">Distancia da casa (em km):</label>
+      <input type="number" id="distancia" name="distancia" required><br><br>
+
+      <label for="consumo">Consumo do carro(em km/l):</label>
+      <input type="number" id="consumo" name="consumo" required><br><br>
+
+      <label for="precoGasolina">Preço do combustivel (R$/litro):</label>
+      <input type="number" id="precoGasolina" name="precoGasolina" required><br><br>
+
+      <input type="submit" value="Analisar">
+
+    </form>
+
+    <p id="result"></p>
+
+    <script>
+      function submitForm(event) {
+        event.preventDefault();
+        var form = document.getElementById("myForm");
+        google.script.run.withSuccessHandler(displayResult).calcularViagem
+      (form);
+      form.reset();
+      }
+
+      function displayResult(result) {
+        document.getElementById("result").textContent = result;
+      }
+    </script>
+  </body>
+</html>
